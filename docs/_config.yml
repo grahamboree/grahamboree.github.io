@@ -5,8 +5,8 @@ gems:
 
 # Site settings
 title: "Graham's Dev Log"
-description: A Jekyll theme - Medium inspired
-email: a-mail@mail.mail
+description: engineering, gamedev, etc.
+#email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/logo.png"
 float_logo: false
@@ -20,8 +20,8 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+#url: "http://myblog.***.***" # the base hostname & protocol for your site
+#baseurl: ""
 #used to display twitter cards
 twitter_handle: '@grahamboree'
 
@@ -36,7 +36,7 @@ social:
     url:	https://twitter.com/grahamboree
     desc: Follow me on twitter
     share_url: http://twitter.com/share
-    share_title: ?text=
+    share_title: "?text="
     share_link: "&amp;url="
 
 #  - icon:	facebook
