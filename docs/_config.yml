@@ -5,7 +5,7 @@ gems:
 
 # Site settings
 title: "Graham's Dev Log"
-description: engineering, gamedev, etc.
+description: software engineering, game dev, etc.
 #email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/logo.png"
